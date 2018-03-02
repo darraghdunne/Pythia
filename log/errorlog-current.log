@@ -1,0 +1,2 @@
+[ERROR] | 2018-03-02 12:08:53.209 | [main] Pythia.App (App.java:92) | [main] com.DarraghDunne.Pythia.App - {} | Log	test:	Test	printed	on	error
+[FATAL] | 2018-03-02 12:08:53.210 | [main] Pythia.App (App.java:93) | [main] com.DarraghDunne.Pythia.App - {} | Log	test:	Test	printed	on	fatal

@@ -1,0 +1,5 @@
+[INFO ] | 2018-03-02 12:08:53.198 | [main] Pythia.App (App.java:90) | Log	test:	Test	printed	on	info
+[WARN ] | 2018-03-02 12:08:53.208 | [main] Pythia.App (App.java:91) | Log	test:	Test	printed	on	warn
+[ERROR] | 2018-03-02 12:08:53.209 | [main] Pythia.App (App.java:92) | Log	test:	Test	printed	on	error
+[FATAL] | 2018-03-02 12:08:53.210 | [main] Pythia.App (App.java:93) | Log	test:	Test	printed	on	fatal
+[INFO ] | 2018-03-02 12:08:53.214 | [main] Pythia.App (App.java:94) | Appending	string:	Application	log	test	message	-	Hi.
